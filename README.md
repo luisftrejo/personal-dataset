@@ -6,5 +6,5 @@ I have always watched football growing up and I have been very invested as of la
 I collected my data from NFL Next Gen Stats (https://nextgenstats.nfl.com/stats/passing/2020/REG/all#yards)
 I set the filters on the website to show individual quarterback passing stats for the 2020 regular season. I only collected data for each quarterbacks ‘time to throw’ and ‘pass competition’. (Data was taken from every quarterback from the 2020 season) I took these columns and imported them into excel. After doing this, I decided to create a histogram for each calum because I thought it would be a good thing to include. Then I placed both data columns into a scatter chart. I adjusted the axis on the chart to have a closer look at the data.
 ## Visualization 
-![Graph1](https://github.com/luisftrejo/personal-dataset/blob/main/Picture1.png)
+![Graph1](https://github.com/luisftrejo/personal-dataset/blob/main/Picture1.png)![Graph2](https://github.com/luisftrejo/personal-dataset/blob/main/Picture2.png)![Graph3](https://github.com/luisftrejo/personal-dataset/blob/main/Picture3.png)
 ## Analysis
