@@ -8,6 +8,11 @@ I set the filters on the website to show individual quarterback passing stats fo
 
 ## Visualization 
 ![Graph1](https://github.com/luisftrejo/personal-dataset/blob/main/g1.png)![Graph2](https://github.com/luisftrejo/personal-dataset/blob/main/g2.png)![Graph3](https://github.com/luisftrejo/personal-dataset/blob/main/g3.png)
+
+These figures were all produced from the data that I collected. I found it helpful to look at both the categories individually as well as together during my data processes. 
+1) A histogram and shows average time that a quarterback takes to throw in the 2020 season.
+2) A histogram on the average percent of completion of quarterbacks in the 2020 season.
+3) A scatter plot that displays a quarterback's average time to throw compared to their average pass completion on the season.
 ## Analysis
 After plotting the data on the scatter plot, I wanted to take it step further to gain a better understanding of the data. I used excel to create a linear regression. Once I plotted this, I noticed that the percent of pass completion started to decline as time continued to increase. This is the opposite of my prediction. Based on the NFL 2020 regular season, the more time that a quarterback takes to throw, their completion slightly decreases. This  is a reasonable conclusion, because most of the time that a quarterback takes a long time to throw, they are attempting a deep pass and these are highly contested by the defense.
 
